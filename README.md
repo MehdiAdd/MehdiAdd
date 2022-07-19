@@ -3,9 +3,9 @@
 - I am a software developer and a data scientist. I have a hybrid profile thanks to my solid background in software engineering and data science. Mastery of Java, JEE, PHP and Solidity. Ability to translate business needs into innovative software solutions as well as intelligent applications based on artificial intelligence. 
 - I am looking to start my career as a software engineer in a reputable IT company.
 ## Skills
-- *Programming language & Technologies* : Java, J2EE, JSP, PHP, JavaScript, Python, C, HTML, CSS, R, Soap, RestFull.
-- *Framework*: Spring Boot, Laravel, ReactJs.
-- *Database* : MySQL, SqlServer, Oracle.
+- **Programming language & Technologies** : Java, J2EE, JSP, PHP, JavaScript, Python, C, HTML, CSS, R, Soap, RestFull.
+- **Framework**: Spring Boot, Laravel, ReactJs.
+- **Database** : MySQL, SqlServer, Oracle.
 
 
 
