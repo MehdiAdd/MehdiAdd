@@ -6,6 +6,7 @@
 - **Programming language & Technologies** : Java, J2EE, JSP, PHP, JavaScript, Python, C, HTML, CSS, R, Soap, RestFull.
 - **Framework**: Spring Boot, Laravel, ReactJs.
 - **Database** : MySQL, SqlServer, Oracle.
+- **Blockchain** : Solidity, ChainLink, Web3.js, Web3.py
 
 
 
