@@ -1,4 +1,4 @@
-### Hi there 👋, El Medhi ADNANI
+### Hi there 👋, El Mehdi ADNANI
 ## Software Developer & Data Scientist
 - I am a software developer and a data scientist. I have a hybrid profile thanks to my solid background in software engineering and data science. Mastery of Java, JEE, PHP and Solidity. Ability to translate business needs into innovative software solutions as well as intelligent applications based on artificial intelligence. 
 - I am looking to start my career as a software engineer in a reputable IT company.
