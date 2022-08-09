@@ -4,7 +4,7 @@
 - I am looking to start my career as a software engineer in a reputable IT company.
 ## Skills
 - **Programming language & Technologies** : Java, J2EE, JSP, PHP, JavaScript, Python, C, HTML, CSS, R, Soap, RestFull.
-- **Framework**: SpringMVC, Spring Boot, Laravel, ReactJs.
+- **Framework**: SpringMVC, Spring Boot, Laravel, ReactJs, Angular.
 - **Database** : MySQL, SqlServer, Oracle.
 - **Blockchain** : Solidity, ChainLink, Web3.js, Web3.py
 
